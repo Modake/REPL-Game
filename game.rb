@@ -1,4 +1,5 @@
 # MAIN PARTS
+#making comment here by dlugo06
 def partone
   clear
   puts "You awaken in a dark forest, fully dressed except for your pants."
